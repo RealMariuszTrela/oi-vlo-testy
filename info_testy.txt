@@ -4,6 +4,8 @@ Pionek:
 	201-300:	n<=20		|xi|,|yi|<=10^4
 	301-380:	n<=2000		|xi|,|yi|<=10^4
 	381-400:	n<=2*10^5	|xi|,|yi|<=10^4
+	401:		Mały test od Mateusza Stępniaka
+	402:		Mały test od Anadiego Agrawala (zasugerowany przez Stanisława Strzeleckiego)
 
 Plan metra:
 	1-400:		n<=10		l_i,d_i<=200

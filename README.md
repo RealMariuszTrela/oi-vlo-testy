@@ -12,3 +12,4 @@ Zadania Plan metra i Prawnicy mają dodatkowo zakodzone sprawdzanie wyjścia w f
 
 Repozytorium jest publiczne, także zachęcam do dodawania też swoich własnych testów, jeżeli są niezbędne (to znaczy istnieje rozwiązanie, które przechodzi wszystkie dotychczasowe testy, a nowego nie).
 
+UPD: ZOSTAŁY DODANE TESTY 401 I 402 DO PIONKA. PROSZĘ NA NICH TEŻ PRZETESTOWAĆ (wielkie dzięki dla Mateusza Stępniaka, Stanisława Strzeleckiego i Anadiego Agrawala)

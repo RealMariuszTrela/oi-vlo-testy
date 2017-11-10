@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	{
 		int a, b, w;
 		out >> a >> b >> w;
-		if(!out.good()) break;
+		if(out.eof()) break;
 		++n;
 		assert(1<=w&&w<=M);
 		assert(1<=a&&a<N&&1<=b&&b<N);
